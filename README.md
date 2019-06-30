@@ -13,11 +13,13 @@ Corresponding Author: Leonor Guedes da Silva, LeonorGuedesdaSilva@gmail.com
 ### This model was adapted from the following previous work:
 Elucidating temporal resource allocation and diurnal dynamics in phototrophic metabolism using conditional FBA
 
-Marco Rugen, Alexander Bockmayr, and Ralf Steuerb
+Marco Rugen, Alexander Bockmayr, and Ralf Steuer
 
 Sci Rep. 2015; 5: 15247.
 
 Published online 2015 Oct 26. doi: 10.1038/srep15247
+
+URL: https://www.nature.com/articles/srep15247
 
 PMCID: PMC4620596
 
