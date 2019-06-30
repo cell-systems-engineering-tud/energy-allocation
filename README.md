@@ -8,8 +8,7 @@ Leonor Guedes da Silva*, Sergio Tomas-Martinez*, Mark C.M. van Loosdrecht, S. Al
 
 Department of Biotechnology, Delft University of Technology, The Netherlands
 
-Corresponding Author: Leonor Guedes da Silva
-E-Mail: LeonorGuedesdaSilva@gmail.com
+Corresponding Author: Leonor Guedes da Silva, LeonorGuedesdaSilva@gmail.com
 
 ### This model was adapted from the following previous work:
 Elucidating temporal resource allocation and diurnal dynamics in phototrophic metabolism using conditional FBA
