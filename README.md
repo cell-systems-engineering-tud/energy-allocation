@@ -30,11 +30,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4620596/bin/srep15247-s2.zip
 
 1. Download or Clone "energy-allocation" into your computer
 2. Open MATLAB (this was tested in MATLAB 2018a for macOS Mojave)
-    >> load PAO.mat
-    >> run_cFBA(model)
+    * load PAO.mat
+    * run_cFBA(model)
+
 3. Once the simulation is done, results can be checked with:
-    >> load results/res_cFBA_model_PAO.mat      %(be careful: '/' and '\' depends on OS)
-    >> plotFlux(res)
-    >> plotFlux(res, "PHB_S")
-    >> plotCompound(res)
-    >> plotCompound(res, "PHB")
+    * load results/res_cFBA_model_PAO.mat
+        * % Caution!! '/' and '\' depends on OS
+    * plotFlux(res)
+    * plotFlux(res, "PHB_S")
+    * plotCompound(res)
+    * plotCompound(res, "PHB")
